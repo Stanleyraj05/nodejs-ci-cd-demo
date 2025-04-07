@@ -50,7 +50,7 @@ This project demonstrates a complete CI/CD Pipeline using:
 - GitHub Actions for Automation
 - Docker for Containerization
 - DockerHub for Image Registry
-- Deployed on AWS EC2 Instance
+- Can be Deployed on AWS EC2 Instance
 
 ---
 
